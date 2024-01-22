@@ -1,0 +1,12 @@
+cargo new [project name]
+
+cargo run
+
+let hello || let mut hello || const SNAKE_CASE 
+
+nested blocks {} variables are thrown away after use
+
+if statements, compiler doesn't have if block safety - unless clear
+
+ 
+
